@@ -1,3 +1,7 @@
+	Users can search for weather condition of any city 
+	This application displays current weather conditions  for searched location including temperature, humidity and other details.
+	Tools and Technologies:  React.js, HTML, CSS, JavaScript, Weather API
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
